@@ -1,0 +1,43 @@
+.cid-sREJNtW7VQ {
+    z-index: 1000;
+    width: 100%;
+    position: relative;
+    min-height: 60px;
+}
+.cid-sREJNtW7VQ nav.navbar {
+    position: fixed;
+}
+.cid-sREJNtW7VQ .container-custom {
+    position: relative;
+    width: 100%;
+    padding: 10px 0;
+}
+@media (min-width: 992px)
+.cid-sREJNtW7VQ .navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 40%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20%;
+    min-height: 100%;
+    z-index: 5;
+}
+.navbar-dropdown .navbar-brand span {
+    vertical-align: -4px;
+}
+
+h1, h2, h3, h4, h5, h6, .display-1, .display-2, .display-4, .display-5, .display-7, span, p, a {
+    line-height: 1;
+    word-break: break-word;
+    word-wrap: break-word;
+    font-weight: 400;
+}
+.abc{
+    margin-bottom: 20px;
+}
+.zxc{
+    margin-right: 4rem;
+}
